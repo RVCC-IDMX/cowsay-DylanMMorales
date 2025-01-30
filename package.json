@@ -1,0 +1,23 @@
+{
+  "name": "cowsay-dylanmmorales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-DylanMMorales.git"
+  },
+  "keywords": [],
+  "author": "Dylan Morales <G00313284@stu.raritanval.edu> (https://github.com/DylanMMorales)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-DylanMMorales/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-DylanMMorales#readme",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
