@@ -1,23 +1,26 @@
 {
-  "name": "cowsay-dylanmmorales",
+  "name": "jsprojects2025",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
 "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "help": "cowsay -h",
+  "cows": "cowsay -l",
   "cowsay": "cowsay"
-},
 
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RVCC-IDMX/cowsay-DylanMMorales.git"
+    "url": "git+https://github.com/DylanMMorales/dylan-morales.git"
   },
   "keywords": [],
   "author": "Dylan Morales <G00313284@stu.raritanval.edu> (https://github.com/DylanMMorales)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RVCC-IDMX/cowsay-DylanMMorales/issues"
+    "url": "https://github.com/DylanMMorales/dylan-morales/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/cowsay-DylanMMorales#readme",
+  "homepage": "https://github.com/DylanMMorales/dylan-morales#readme",
+  "description": "",
   "dependencies": {
     "cowsay": "^1.6.0"
   }
